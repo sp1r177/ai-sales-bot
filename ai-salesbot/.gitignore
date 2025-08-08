@@ -1,0 +1,17 @@
+# Node
+client/node_modules
+client/dist
+
+# Python
+__pycache__
+*.pyc
+
+# Env
+.env
+
+# Media
+backend/media
+
+# IDE
+.vscode
+.idea
